@@ -10,4 +10,4 @@
 #### Submission
 - EC2 : [13.208.51.11:7777](http://13.208.51.11:7777/)
 - ECS : [15.152.142.41:7777](http://15.152.142.41:7777/)
-- [관련 내용 정리](https://www.notion.so/week1-066efcd7cb1e4ef1805d6bfd86cfdc33?pvs=4)
+- [관련 내용 정리](https://habitual-pint-c5d.notion.site/week1-066efcd7cb1e4ef1805d6bfd86cfdc33?pvs=4)
