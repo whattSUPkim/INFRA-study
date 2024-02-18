@@ -32,7 +32,7 @@
 > 다음 데이터를 4개의 데이터베이스 각각에 적절한 형태로 insert합니다.
 > 
 > 
-> [titanic.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c904dd4-700f-4efa-b075-59bbd3876e97/12f68690-4c00-46dd-a8d9-d725a808ff09/titanic.csv)
+> `titanic.csv`
 > 
 > - 실험을 통해 각 데이터베이스마다 성능이 제일 잘 나오는 쿼리를 3개씩 만듭니다. 1번에서 insert한 데이터를 전부 지우고 다시 insert하는 것도 가능합니다.
 > - 최종 쿼리 12개를 4개의 데이터베이스 전체에 대해 돌린 결과를 분석 및 시각화합니다.
