@@ -25,3 +25,16 @@
 > Week1에서 만든 EC2에 EFS를 연결하세요. EC2에서 S3, EFS, EBS에 아래 파일을 100번 store, 100번 load하세요. 각 스토리지별로 평균 store 시간, load 시간을 구하세요. 결과를 분석하고 그 이유를 매우 자세하게 설명해주세요.
 #### Submission
 <img width="600" alt="Untitled (14)" src="https://github.com/whattSUPkim/INFRA-study/assets/83912849/f30fde63-b081-44b5-8d81-dc63cd52a5e1">
+
+
+## Week3
+[과제 디테일](https://habitual-pint-c5d.notion.site/week3-3f6290830efc4c13917705b0e36dcf27?pvs=4)
+> 다음 데이터를 4개의 데이터베이스 각각에 적절한 형태로 insert합니다.
+> 
+> 
+> [titanic.csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c904dd4-700f-4efa-b075-59bbd3876e97/12f68690-4c00-46dd-a8d9-d725a808ff09/titanic.csv)
+> 
+> - 실험을 통해 각 데이터베이스마다 성능이 제일 잘 나오는 쿼리를 3개씩 만듭니다. 1번에서 insert한 데이터를 전부 지우고 다시 insert하는 것도 가능합니다.
+> - 최종 쿼리 12개를 4개의 데이터베이스 전체에 대해 돌린 결과를 분석 및 시각화합니다.
+> - ⚠️ 인프라는 항상 최소 사양으로, 사용하고 있지 않을 땐 stop을, 실험이 전부 끝났다면 즉시 종료해주세요. ⚠️
+> - 위에서 공부한 내용을 정리합니다.
